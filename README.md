@@ -1,5 +1,6 @@
 # An-Integrated-AI-Model-for-Multi-Disease-Prediction
 Machine learning-based system that predicts multiple chronic diseases — Diabetes, Heart, Kidney, Liver, and Stroke — using Random Forest and Neural Network models.
+
 🧠 Overview
 
 The Multi-Disease Prediction System is an intelligent healthcare application built using Machine Learning (ML) and Deep Learning (DL) techniques.
