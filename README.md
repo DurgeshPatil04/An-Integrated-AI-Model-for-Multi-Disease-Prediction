@@ -29,13 +29,16 @@ Framework: Flask / Streamlit (for web deployment)
 
 Development Tools: Jupyter Notebook, Google Colab
 
-📈 Model Summary
-Disease	Algorithm Used	Accuracy Achieved
-Diabetes	Random Forest	84.83%
-Heart Disease	Random Forest	93.66%
-Kidney Disease	Random Forest	98–100%
-Liver Disease	Random Forest	94.63%
-Stroke	Neural Network	93.98%
+📊 Model Performance
+| Disease | Algorithm | Accuracy |
+|----------|------------|-----------|
+| Diabetes | Random Forest | 84.83% |
+| Heart Disease | Random Forest | 93.66% |
+| Kidney Disease | Random Forest | 98–100% |
+| Liver Disease | Random Forest | 94.63% |
+| Stroke | Neural Network | 93.98% |
+
+
 🚀 Key Features
 
 Unified multi-disease prediction from a single interface
